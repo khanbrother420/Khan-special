@@ -29,7 +29,7 @@ os.system('pip install rich')
 os.system('clear')
 print('')
 print('')
-print(' \033[38;5;46mKhan-Special \n  Update Successful......')
+print(' \033[38;5;46m Owner:Mr.KhanVau420  \n  Team : KhanBrother420')
 try:
     import requests
     from concurrent.futures import ThreadPoolExecutor as ThreadPool
